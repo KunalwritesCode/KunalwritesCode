@@ -17,10 +17,10 @@ A Senior year student pursuing Bachelors's in Computer Science 🎓 from Chandig
 
 - 🌱 I’m currently working on Metropolis 
 - 🌱 I’m currently learning Solidity 
-- 👯 I’m looking to collaborate on Design projects and Basic Web Dev stuff
+- 👯 I’m looking to collaborate on NFT Hackathons!!
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/kunal.evolves/) 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Fun fact: Caffeine can get you high !! 
 <br />
 <br />
 
