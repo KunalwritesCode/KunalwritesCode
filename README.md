@@ -5,9 +5,13 @@
 
 <h3 align="center">Interpreter who converts Designs into Frontend code ❤</h3>
   
-<!-- A 20 Y/O Tech Enthusiast🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
+A 21 Y/O Tech Enthusiast🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
-A Senior year student pursuing Bachelors's in Computer Science 🎓 from Chandigarh University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+During his tenure at Labridge, Kunal showcased his adaptability by spearheading the development of a web application from inception to execution. His meticulous integration of UI/UX design using Figma, coupled with technologies like React.js, JavaScript, and Material UI, is a testament to his multifaceted skill set. Notably, Kunal leveraged MerlinAI for content generation, underscoring his commitment to staying at the forefront of innovative tools.
+
+Beyond the coding realm, Kunal assumes the role of a charismatic anchor at various college events, where he skillfully employs prompt engineering to infuse creativity into his speeches, blending the human touch with artificial intelligence.
+
+Enthusiastic about applying his extensive experience and expertise, Kunal is poised to make a meaningful impact, contributing his skills to cutting-edge projects and pushing the boundaries in the ever-evolving landscapes of web development and artificial intelligence.
 
 
 ![age](https://img.shields.io/badge/age-20-blue)
@@ -16,10 +20,10 @@ A Senior year student pursuing Bachelors's in Computer Science 🎓 from Chandig
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently working on Metropolis 
-- 🌱 I’m currently learning Solidity 
-- 👯 I’m looking to collaborate on NFT Hackathons!!
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/kunal.evolves/) 
+- 🌱 I’m currently working on Learning Tech 
+- 🌱 I’m currently learning by implementing MERN I learnt 
+- 👯 I’m looking to collaborate on TechTalks and Events!!
+- 📫 How to reach me: You can find me on [LinkedIN](https://www.linkedin.com/in/kunal-pidiha/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Caffeine can get you high !! 
 <br />
@@ -28,7 +32,7 @@ A Senior year student pursuing Bachelors's in Computer Science 🎓 from Chandig
 <div align="center">
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>  
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/python.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
@@ -36,11 +40,11 @@ A Senior year student pursuing Bachelors's in Computer Science 🎓 from Chandig
 
 <br>
 
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/node.jpeg" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/>
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60"
 
 </div>
