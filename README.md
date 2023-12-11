@@ -45,11 +45,13 @@ Enthusiastic about applying his extensive experience and expertise, Kunal is poi
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60"
+<img src="https://img.icons8.com/color/452/mongodb.png" alt="" width="60"
 
 </div>
 
 <br >
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
 
 <!-- <p align="center">
   <a>
