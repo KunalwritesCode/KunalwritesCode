@@ -12,7 +12,7 @@ Before this I spent two years building and reviewing LLM evaluation tasks. I wro
 
 <p align="center"><img src="assets/recent.svg" width="100%" alt="230 requests, one agent: 133 settled on their own, 97 routed to the right approver."></p>
 
-**AI Access Desk Employee** earned an Honourable Mention at the Supervity AutoPilot Hackathon in Ahmedabad. My team built it in 48 hours: it reads IT-access requests from email, checks each one against a role-based policy, and settles it or routes it to the right approver with the reason.
+**AI Access Desk Employee** earned an Honourable Mention at the Supervity AutoPilot Hackathon in Ahmedabad. I built it in 48 hours: it reads IT-access requests from email, checks each one against a role-based policy, and settles it or routes it to the right approver with the reason.
 
 I work mostly in Python and React. Earlier I was a frontend intern at Labridge; my older React projects live in the Repositories tab.
 
